@@ -1,0 +1,14 @@
+{
+	"name": "artberri",
+	"description": "Claude Code plugins by Alberto Varela Sánchez",
+	"owner": {
+		"name": "Alberto Varela Sánchez"
+	},
+	"plugins": [
+		{
+			"name": "sideline",
+			"source": { "source": "github", "repo": "artberri/sideline" },
+			"description": "Declutters Claude Code's conversation: long commands, diffs and tool chatter step aside into a tidy pane with your changes, commits and commands."
+		}
+	]
+}
