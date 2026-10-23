@@ -7,7 +7,7 @@
 	"plugins": [
 		{
 			"name": "sideline",
-			"source": { "source": "github", "repo": "artberri/sideline" },
+			"source": { "source": "url", "url": "https://github.com/artberri/sideline.git" },
 			"description": "Declutters Claude Code's conversation: long commands, diffs and tool chatter step aside into a tidy pane with your changes, commits and commands."
 		}
 	]
