@@ -14,6 +14,14 @@
 				"ref": "v0.1.0"
 			},
 			"description": "Declutters Claude Code's conversation: long commands, diffs and tool chatter step aside into a tidy pane with your changes, commits and commands."
+		},
+		{
+			"name": "artberri",
+			"source": {
+				"source": "url",
+				"url": "https://github.com/artberri/skills.git"
+			},
+			"description": "My everyday agent skills: focused, signed commits; pull request review with Open Code Review; and adapting skill templates to a project."
 		}
 	]
 }
